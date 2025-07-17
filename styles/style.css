@@ -198,8 +198,17 @@ main > section {
 }
 
 
-
-
+/* footer styles */
+.footer-section {
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: rgba(255, 244, 231, 1);
+    padding: 30px;
+    text-align: center;
+    font-size: 1.25rem;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
 
 
 /* responsive media query */
